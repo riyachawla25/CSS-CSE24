@@ -1,0 +1,27 @@
+p{
+    color: blueviolet;
+    background-color:azure;
+    padding: 18px;
+    margin-left: auto;
+
+}
+.riya{
+   color :blue;
+}
+body{
+    background-color:antiquewhite;
+}
+#abes {
+    font-size:30px ;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+div 
+{
+    background-color: beige;
+    height: 200px;
+    width: 400px ;
+    border: dotted black 2px;
+    text-align: center;
+}
