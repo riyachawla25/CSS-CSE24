@@ -1,0 +1,21 @@
+.container {
+    display:grid ;
+    height: 600px;
+    width: 1000px;
+    background-color:rgb(248,136,159);
+    margin-left: 170px;
+    grid-template-columns:repeat(4,1fr) ;
+    place-items: center;
+    justify-items: center;
+    border: ;
+ }
+  .item
+  {
+    text-align: center;
+    align-content: center;
+    height: 100px;
+    width: 80px;
+    background-color: crimson;
+    border: 1px solid;
+
+  }
